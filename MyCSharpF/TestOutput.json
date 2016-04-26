@@ -1,4 +1,4 @@
 {
-    "location": "HttpResponse",
-    "output": "Hello Azure"
+  "location": "HttpResponse",
+  "output": "Hello Azure"
 }
